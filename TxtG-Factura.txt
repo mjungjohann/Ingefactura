@@ -1,0 +1,23 @@
+->Encabezado<-
+33;11002;2017-07-07;0;0;88888888-8;EMPRESA DE PRUEBA; GIRO;O´HIGINNS; COMUNA; SANTIAGO;;;;SUP;;;0;
+->Totales<-
+0;0;0;0;6760;0;19;1284;8586;0;542;
+->Detalle<-
+1;GR001;RAP COLA 2 Lt x 6;3,000;1805,333;,0;0,000;;;0;5416,000;INT1;PK;;
+2;SERFLETE;SERVICIO DE FLETE;1344,000;1,000000;,0;0,000;;;0;1344,000;INT1;;;
+->ImpuestoRetencion<-
+1;27;;542;
+->Observacion<-
+SUP;
+SUPERVISOR;
+;
+;
+->Adicionales<-
+1;;
+2;;
+3;00-00-0;
+4;;
+5;SUP;
+6;;
+7;;
+8;;
